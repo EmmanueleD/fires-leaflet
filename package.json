@@ -7,7 +7,6 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@babel/parser": "<7.4.0",
     "@mdi/font": "5.9.55",
     "axios": "^0.21.1",
     "core-js": "^3.17.3",
