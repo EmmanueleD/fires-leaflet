@@ -26,8 +26,6 @@
                 <h3>Premise</h3>
                 <p>
                   Every day somewhere in the world a fire takes place. It can be caused by various causes both natural and by man. Thus, for some years now, thanks to its satellites and to help local authorities, NASA has been monitoring the global situation and automatically identifies and reports fires on the entire planet.
-
-                  emmanuele durante
                 </p>
                 <h3>What is this</h3>
                 <p>
