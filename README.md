@@ -1,4 +1,5 @@
 # Fires-Leaflet - with Vue.js
+You can try the app [here](https://fires-on-a-map.netlify.app/)
 ## Premise
 Every day somewhere in the world a fire takes place. It can be caused by various causes both natural and by man. Thus, for some years now, thanks to its satellites and to help local authorities, NASA has been monitoring the global situation and automatically identifies and reports fires on the entire planet. 
 ## What is this
