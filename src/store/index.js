@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import axios from 'axios'
-import { startsWith } from 'core-js/fn/string'
 
 Vue.use(Vuex)
 
